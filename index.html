@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hidden Share Button</title>
+	<link rel="stylesheet" type="text/css" href="style.css">	
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
+</head>
+<body>
+  	<ul class="share-icons">
+	  <li class="share-icons__item"><i class="fab fa-facebook text-black"></i></li>
+	  <li class="share-icons__item"><i class="fab fa-instagram text-black"></i></li>
+	  <li class="share-icons__item"><i class="fab fa-twitter text-black"></i></li>
+	  <li class="share-icons__item"><i class="fab fa-github text-black"></i></li>
+	  <li class="share-icons__block">
+	    <div class="share-icons__block-left"><i class="fas fa-share text-primary"></i></div>
+	    <div class="share-icons__block-right"><i class="fas fa-share text-primary"></i></div>
+	  </li>
+	</ul>
+</body>
+</html>
